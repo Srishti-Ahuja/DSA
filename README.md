@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Srishti-Ahuja/DSA/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Binary Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Srishti-Ahuja/DSA/tree/master/0152-maximum-product-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
