@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Srishti-Ahuja/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Srishti-Ahuja/DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0704-binary-search) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Srishti-Ahuja/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Srishti-Ahuja/DSA/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0704-binary-search) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sweep Line
