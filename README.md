@@ -59,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Srishti-Ahuja/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Srishti-Ahuja/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srishti-Ahuja/DSA/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
