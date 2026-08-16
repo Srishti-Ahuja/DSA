@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
