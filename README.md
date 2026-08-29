@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srishti-Ahuja/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Srishti-Ahuja/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Ahuja/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Srishti-Ahuja/DSA/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
