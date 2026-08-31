@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Srishti-Ahuja/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/Srishti-Ahuja/DSA/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srishti-Ahuja/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srishti-Ahuja/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Srishti-Ahuja/DSA/tree/master/0013-roman-to-integer) |
+| [0282-expression-add-operators](https://github.com/Srishti-Ahuja/DSA/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Srishti-Ahuja/DSA/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Srishti-Ahuja/DSA/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Srishti-Ahuja/DSA/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
