@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Srishti-Ahuja/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Srishti-Ahuja/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Srishti-Ahuja/DSA/tree/master/0162-find-peak-element) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Srishti-Ahuja/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Srishti-Ahuja/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Srishti-Ahuja/DSA/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
