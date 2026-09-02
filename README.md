@@ -252,8 +252,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0079-word-search) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srishti-Ahuja/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Srishti-Ahuja/DSA/tree/master/0051-n-queens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srishti-Ahuja/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srishti-Ahuja/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Srishti-Ahuja/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
