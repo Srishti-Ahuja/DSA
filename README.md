@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Srishti-Ahuja/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1901-find-a-peak-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Srishti-Ahuja/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Srishti-Ahuja/DSA/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Srishti-Ahuja/DSA/tree/master/1922-count-good-numbers) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
