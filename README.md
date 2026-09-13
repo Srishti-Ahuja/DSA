@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Srishti-Ahuja/DSA/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/Srishti-Ahuja/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Srishti-Ahuja/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Srishti-Ahuja/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Srishti-Ahuja/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
