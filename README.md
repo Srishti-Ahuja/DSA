@@ -304,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Srishti-Ahuja/DSA/tree/master/0496-next-greater-element-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
