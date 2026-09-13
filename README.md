@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti-Ahuja/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/Srishti-Ahuja/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Ahuja/DSA/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Srishti-Ahuja/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Srishti-Ahuja/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti-Ahuja/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Srishti-Ahuja/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Srishti-Ahuja/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti-Ahuja/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Prefix Sum
 |  |
