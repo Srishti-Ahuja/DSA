@@ -1,29 +1,25 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b)-> Integer.compare(a[0],b[0]));
+        Arrays.sort(intervals, (a,b)-> {
+            if(a[0]!=b[0]) return Integer.compare(a[0], b[0]);
+            else return Integer.compare(a[1], b[1]);
+        });
 
-        int n=intervals.length;
-        int[][] res = new int[n][2];
-        int k=0;
-        for(int i=0; i<n; i++){
-            if(k==0){
-                //res is empty
-                res[0] = intervals[i];
-                k++;
+        int[][] res = new int[intervals.length][intervals[0].length];
+        res[0][0] = intervals[0][0]; res[0][1] = intervals[0][1];
+        int l=0;
+
+        for(int i=1; i<intervals.length; i++){
+            if(intervals[i][0]<=res[l][1]){
+                res[l][1] = Integer.max(res[l][1], intervals[i][1]);
             }
             else{
-                if(intervals[i][0]<=res[k-1][1]){
-                    //Overlapping
-                    res[k-1][1] = Integer.max(res[k-1][1], intervals[i][1]);
-                }
-                else{
-                    //Not overlapping
-                    res[k] = intervals[i];
-                    k++;
-                }
+                l++;
+                res[l][0] = intervals[i][0];
+                res[l][1] = intervals[i][1];
             }
         }
 
-        return Arrays.copyOf(res,k);
+        return Arrays.copyOfRange(res, 0, l+1);
     }
 }
