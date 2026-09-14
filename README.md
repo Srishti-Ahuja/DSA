@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Srishti-Ahuja/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srishti-Ahuja/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Srishti-Ahuja/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Srishti-Ahuja/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Srishti-Ahuja/DSA/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/Srishti-Ahuja/DSA/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Ahuja/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Srishti-Ahuja/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Srishti-Ahuja/DSA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Srishti-Ahuja/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Srishti-Ahuja/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Srishti-Ahuja/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -330,5 +333,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srishti-Ahuja/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Srishti-Ahuja/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
