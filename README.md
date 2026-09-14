@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/Srishti-Ahuja/DSA/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1901-find-a-peak-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Srishti-Ahuja/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Srishti-Ahuja/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Srishti-Ahuja/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Srishti-Ahuja/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Srishti-Ahuja/DSA/tree/master/2270-number-of-ways-to-split-array) |
 ## Linked List
 |  |
 | ------- |
