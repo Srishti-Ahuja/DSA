@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Srishti-Ahuja/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Srishti-Ahuja/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Srishti-Ahuja/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti-Ahuja/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srishti-Ahuja/DSA/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Srishti-Ahuja/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Ahuja/DSA/tree/master/0410-split-array-largest-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Srishti-Ahuja/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Srishti-Ahuja/DSA/tree/master/2270-number-of-ways-to-split-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Srishti-Ahuja/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Srishti-Ahuja/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Srishti-Ahuja/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1901-find-a-peak-element-ii](https://github.com/Srishti-Ahuja/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Srishti-Ahuja/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Srishti-Ahuja/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Queue
 |  |
 | ------- |
